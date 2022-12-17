@@ -11,9 +11,9 @@
 }
 
 body {
-  background: #004521;
+  background: #B4D6C1;
   text-align: center;
-  color: #FAFAFA;
+  color: black;
 
 }
 
@@ -21,31 +21,31 @@ body {
   flex-flow: row wrap;
   align-content: center;
   align-items: center;
-  border: #FAFAFA;
+  border: black;
   border-width: 2px;
   justify-content: center;
-  margin-right: 200px;
-  margin-left: 200px;
+  margin-right: 175px;
+  margin-left: 175px;
 
 }
 
 
 .headline {
   text-align: center;
-  color: #FAFAFA;
+  color: black;
   font-size: 100px;
 
 }
 
 .byline {
   text-align: center;
-  color: #FAFAFA;
+  color: black;
   font-size: 70px;
 }
 
 #copy {
   text-align: center;
-  color: gray;
+  color: #333333;
   font-size: 13px;
 
 }
@@ -55,7 +55,6 @@ body {
   justify-content: center;
   margin: auto;
   shape-margin: square;
-  background: #FAFAFA;
 
 }
 
@@ -69,7 +68,7 @@ img {
 .sources {
   text-align: left;
   justify-content: flex-start;
-  color: #FAFAFA;
+  color: black;
 
 }
 
