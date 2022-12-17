@@ -12,26 +12,28 @@
 
 body {
   background: #B4D6C1;
-  text-align: center;
   color: black;
-
+  text-align: center;
+  
 }
 
 .container {
   flex-flow: row wrap;
   align-content: center;
   align-items: center;
-  border: black;
-  border-width: 2px;
+  border-color: #014421;
+  border-style: dashed;
+  padding-left: 50px;
+  padding-right: 50px;
   justify-content: center;
-  margin-right: 175px;
-  margin-left: 175px;
+  margin-right: 100px;
+  margin-left: 100px;
 
 }
 
 
 .headline {
-  text-align: center;
+  text-align: left;
   color: black;
   font-size: 100px;
 
@@ -72,9 +74,12 @@ img {
 
 }
 
+.mobile {
+  text-align: center;
+}
 
-
-
-
+p {
+  text-align: left;
+}
 
 
