@@ -1,0 +1,82 @@
+
+@media (max-width:480px){
+  .desktop {
+    display:none;
+  }
+
+  .mobile {
+    display: block;
+  }
+
+}
+
+body {
+  background: #C8E8C3;
+  text-align: center;
+  color: black;
+  
+
+}
+
+.container {
+  flex-flow: row wrap;
+  align-content: center;
+  align-items: center;
+  border: black;
+  border-width: 2px;
+  justify-content: center;
+  margin-right: 200px;
+  margin-left: 200px;
+
+}
+
+
+.headline {
+  text-align: center;
+  color: black;
+  font-size: 100px;
+
+}
+
+.byline {
+  text-align: center;
+  color: black;
+  font-size: 70px;
+}
+
+#copy {
+  text-align: center;
+  color: gray;
+  font-size: 13px;
+
+}
+
+.mapping {
+  flex-flow: row wrap;
+  justify-content: center;
+  margin: auto;
+  shape-margin: square;
+  background: ghostwhite;
+
+}
+
+
+img {
+  max-width: 100%;
+  height: auto%;
+
+}
+
+.sources {
+  text-align: left;
+  justify-content: flex-start;
+  color: black;
+
+}
+
+
+
+
+
+
+
